@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "조현오"
 description              : "조현오의 개발 블로그입니다."
 url                      : "https://pixel24287.github.io"
-baseurl                  : "/blog"
+baseurl                  : #"/blog"
 repository               : "pixel24287/pixel24287.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "조현오"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "인공지능 개발자를 목표로 하고있는 학생"
+  location         : "korea"
   email            :
   links:
     - label: "Email"
